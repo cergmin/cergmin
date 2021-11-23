@@ -3,7 +3,7 @@
 
 ### 💻 I'm Frontend Engineer
 
-### ☎️ Contacts
-Email: cergmin@gmail.com\
-Telegram: [cergmin](http://t.me/cergmin)\
-LinkedIn: [cergmin](https://www.linkedin.com/in/cergmin)
+### 📞 Contacts
+[![Telegram icon](/images/telegram.png)](https://t.me/cergmin)
+[![LinkedIn icon](/images/linkedin.png)](https://www.linkedin.com/in/cergmin)
+[![Twitter icon](/images/twitter.png)](https://twitter.com/cergmin)
