@@ -6,4 +6,5 @@
 ### 📞 Contacts
 [<img src="/images/telegram.svg" alt="Telegram icon" height="40">](https://t.me/cergmin)<br>
 [<img src="/images/linkedin.svg" alt="LinkedIn icon" height="40">](https://www.linkedin.com/in/cergmin)<br>
-[<img src="/images/twitter.svg" alt="Twitter icon" height="40">](https://twitter.com/cergmin)
+[<img src="/images/twitter.svg" alt="Twitter icon" height="40">](https://twitter.com/cergmin)<br>
+[<img src="/images/email.svg" alt="Email badge" height="40">](mailto:cergmin@gmail.com)
