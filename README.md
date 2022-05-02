@@ -4,6 +4,7 @@
 ### 💻 I'm Frontend Engineer
 
 ### 📞 Contacts
+[<img src="/images/cergmin.dev.svg" alt="Site: https://cergmin.vercel.app" height="40">](https://cergmin.vercel.app/notes)<br>
 [<img src="/images/telegram.svg" alt="Telegram: cergmin" height="40">](https://t.me/cergmin)<br>
 [<img src="/images/linkedin.svg" alt="LinkedIn: cergmin" height="40">](https://www.linkedin.com/in/cergmin)<br>
 [<img src="/images/twitter.svg" alt="Twitter: cergmin" height="40">](https://twitter.com/cergmin)<br>
